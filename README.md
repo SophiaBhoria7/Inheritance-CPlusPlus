@@ -1,2 +1,8 @@
-# Inheritance-CPlusPlus
-The CS50 Data Structures Problem Set Number 1: Inheritance but in the language of C++ so that I can practice the concepts in C++ specificially and see the differences between C and C++ data stucture formating
+# Inheritance C++
+
+The directions from CS50x's Week 5 Data Structures:
+A person’s blood type is determined by two alleles (i.e., different forms of a gene). The three possible alleles are A, B, and O, of which each person has two (possibly the same, possibly different). Each of a child’s parents randomly passes one of their two blood type alleles to their child. The possible blood type combinations, then, are: OO, OA, OB, AO, AA, AB, BO, BA, and BB.
+
+For example, if one parent has blood type AO and the other parent has blood type BB, then the child’s possible blood types would be AB and OB, depending on which allele is received from each parent. Similarly, if one parent has blood type AO and the other OB, then the child’s possible blood types would be AO, OB, AB, and OO.
+
+In a file called inheritance.c in a folder called inheritance, simulate the inheritance of blood types for each member of a family.
